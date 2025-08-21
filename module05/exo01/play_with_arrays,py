@@ -1,4 +1,0 @@
-s = [2,8,9,48,8,22,-12,2]
-o = [x + 2 for x in s]
-print('original array :',s)
-print('new array:',o)
