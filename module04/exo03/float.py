@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 i = input('GIve me a number :')
 try :
  n = float(i)
